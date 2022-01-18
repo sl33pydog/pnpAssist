@@ -1,4 +1,4 @@
-
+![V3 Potential](/V3/Current_Status_1-17-2021.png)
 
 This version is a take on the V2 with several key differences (in no particular order).
 
